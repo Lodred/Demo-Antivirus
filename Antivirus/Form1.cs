@@ -37,6 +37,7 @@ namespace Antivirus
 
         private void button2_Click(object sender, EventArgs e)
         {
+            listBox1.Items.Clear();
             viruses = 0;
             string[] search = Directory.GetFiles(folderBrowserDialog1.SelectedPath, "*.*");
             progressBar1.Maximum = search.Length;
