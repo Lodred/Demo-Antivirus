@@ -9,3 +9,14 @@ D:\Visual\Community 2022\Antivirus\Antivirus\obj\Debug\Antivirus.csproj.CoreComp
 D:\Visual\Community 2022\Antivirus\Antivirus\obj\Debug\Antivirus.exe
 D:\Visual\Community 2022\Antivirus\Antivirus\obj\Debug\Antivirus.pdb
 D:\Visual\Community 2022\Antivirus\Antivirus\obj\Debug\Antivirus.Form1.resources
+D:\Visual\Community 2022\Antivirus\Demo-Antivirus\Antivirus\bin\Debug\Antivirus.exe.config
+D:\Visual\Community 2022\Antivirus\Demo-Antivirus\Antivirus\bin\Debug\Antivirus.exe
+D:\Visual\Community 2022\Antivirus\Demo-Antivirus\Antivirus\bin\Debug\Antivirus.pdb
+D:\Visual\Community 2022\Antivirus\Demo-Antivirus\Antivirus\obj\Debug\Antivirus.csproj.AssemblyReference.cache
+D:\Visual\Community 2022\Antivirus\Demo-Antivirus\Antivirus\obj\Debug\Antivirus.csproj.SuggestedBindingRedirects.cache
+D:\Visual\Community 2022\Antivirus\Demo-Antivirus\Antivirus\obj\Debug\Antivirus.Form1.resources
+D:\Visual\Community 2022\Antivirus\Demo-Antivirus\Antivirus\obj\Debug\Antivirus.Properties.Resources.resources
+D:\Visual\Community 2022\Antivirus\Demo-Antivirus\Antivirus\obj\Debug\Antivirus.csproj.GenerateResource.cache
+D:\Visual\Community 2022\Antivirus\Demo-Antivirus\Antivirus\obj\Debug\Antivirus.csproj.CoreCompileInputs.cache
+D:\Visual\Community 2022\Antivirus\Demo-Antivirus\Antivirus\obj\Debug\Antivirus.exe
+D:\Visual\Community 2022\Antivirus\Demo-Antivirus\Antivirus\obj\Debug\Antivirus.pdb

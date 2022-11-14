@@ -55,7 +55,7 @@ namespace Antivirus
                             listBox1.Items.Add(item);
                             button3.Show();
                             button4.Show();
-                            label3.Text = "Dectados : " + viruses.ToString();
+                            label3.Text = "Detectados : " + viruses.ToString();
                         }
                         progressBar1.Increment(1);
                     }

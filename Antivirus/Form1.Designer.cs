@@ -116,9 +116,9 @@
             this.label3.ForeColor = System.Drawing.Color.Crimson;
             this.label3.Location = new System.Drawing.Point(102, 353);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(68, 13);
+            this.label3.Size = new System.Drawing.Size(77, 13);
             this.label3.TabIndex = 8;
-            this.label3.Text = "Dectados : 0";
+            this.label3.Text = "Detectados : 0";
             // 
             // button4
             // 
